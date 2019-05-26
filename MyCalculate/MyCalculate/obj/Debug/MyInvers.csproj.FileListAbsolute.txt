@@ -1,0 +1,6 @@
+E:\study\nasim rog\MyCalculate\MyCalculate\bin\Debug\MyCalculate.exe.config
+E:\study\nasim rog\MyCalculate\MyCalculate\obj\Debug\MyInvers.csprojResolveAssemblyReference.cache
+E:\study\nasim rog\MyCalculate\MyCalculate\bin\Debug\MyCalculate.exe
+E:\study\nasim rog\MyCalculate\MyCalculate\bin\Debug\MyCalculate.pdb
+E:\study\nasim rog\MyCalculate\MyCalculate\obj\Debug\MyCalculate.exe
+E:\study\nasim rog\MyCalculate\MyCalculate\obj\Debug\MyCalculate.pdb
